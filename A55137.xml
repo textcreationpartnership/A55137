@@ -1,0 +1,426 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pleasant spelling-piece spelling the most variously written syllables in the Bible, or elsewhere, with such distinction, plain and delightful demonstrations, that the least reading child may quickly become perfect in spelling. VVith such an introduction into the Latine-tongue, as renders that whole tongue attainable with far less charge to memory, than the very grammar-rules hitherto have been. To this sweet method let us all apply, leav't not to Rome, Spain, France, or Germany: VVho ne'r well yet distinguish'd th' grounds of speech, Let us them teach, not they us I beseech.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55137</idno>
+            <idno type="STC">Wing P2563A</idno>
+            <idno type="STC">ESTC R221523</idno>
+            <idno type="EEBO-CITATION">99832821</idno>
+            <idno type="PROQUEST">99832821</idno>
+            <idno type="VID">37296</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55137)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37296)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2150:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pleasant spelling-piece spelling the most variously written syllables in the Bible, or elsewhere, with such distinction, plain and delightful demonstrations, that the least reading child may quickly become perfect in spelling. VVith such an introduction into the Latine-tongue, as renders that whole tongue attainable with far less charge to memory, than the very grammar-rules hitherto have been. To this sweet method let us all apply, leav't not to Rome, Spain, France, or Germany: VVho ne'r well yet distinguish'd th' grounds of speech, Let us them teach, not they us I beseech.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Sold by Mr. Butt, at his shop in Princes-Street; and by Fr. Calverley, in High-Holbourn,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Unsigned.</note>
+                  <note>Print show-through.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Spellers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37296:1"/>
+            <pb facs="tcp:37296:1" rendition="simple:additions"/>
+            <p>A Pleaſant Spelling-Piece: Spelling the moſt variouſly Written Sylla<g ref="char:EOLhyphen"/>lables in the <hi>BIBLE,</hi> or elſewhere, with ſuch diſtinction, plain and delightful demonſtrations, that the leaſt Reading Child may quickly become perfect in ſpelling.</p>
+            <p>VVith ſuch an Introduction INTO THE LATINE-tongue, As renders that whole <hi>Tongue</hi> attainable With far leſs Charge to Memory, than the very Grammar-RULES hitherto have been.</p>
+            <q>
+               <l>To this ſweet Method let us all apply,</l>
+               <l>Leav't not to <hi>Rome, Spain, France,</hi> or <hi>Germany:</hi>
+               </l>
+               <l>VVho ne'r well yet diſtinguiſh'd th' Grounds of Speech,</l>
+               <l>Let us them teach, not they us I beſeech.</l>
+            </q>
+            <p>Sold by Mr. <hi>Butt,</hi> at his Shop in <hi>Princes-Street;</hi> and by <hi>Fr. Calverley,</hi> in <hi>High-Holbourn,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37296:2"/>
+            <head>A Pleaſant <hi>Spelling-piece,</hi> &amp;c.</head>
+            <div type="part">
+               <head>How many ways do you ſpell the Syllable</head>
+               <list>
+                  <label>
+                     <hi>Ac.</hi> Rule 1.</label>
+                  <item>
+                     <hi>Ac is ſpell'd</hi> 4 <hi>ways,</hi> Viz.
+<list>
+                        <item>1. With ac, as <hi>Acca.</hi>
+                        </item>
+                        <item>2. With a, c, h, as <hi>Achmon.</hi>
+                        </item>
+                        <item>3. With a, c, k, as <hi>Sack.</hi>
+                        </item>
+                        <item>4. With a, k, as <hi>Habakkuk.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>
+                     <hi>Ec.</hi> Rule 2.</label>
+                  <item>Ec <hi>is Spell'd</hi> 4 <hi>ways;</hi> Viz.
+<list>
+                        <item>1. With ec, as <hi>Eccleſiaſtick.</hi>
+                        </item>
+                        <item>2. With e, c, h, as <hi>Abimelech.</hi>
+                        </item>
+                        <item>3. With e, c, k, as <hi>Purbeck.</hi>
+                        </item>
+                        <item>4. With e, k, as <hi>Ephek.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>
+                     <hi>Ca.</hi> Rule 3.</label>
+                  <item>Ca <hi>is ſpell'd</hi> 6 <hi>ways,</hi> Viz.
+<list>
+                        <item>1. With C, a, as <hi>Cathedral.</hi>
+                        </item>
+                        <item>2. With C, a, i, as <hi>Cain.</hi>
+                        </item>
+                        <item>3. With c, a, y, as <hi>Decay.</hi>
+                        </item>
+                        <item>4. With C, h, a, as <hi>Character.</hi>
+                        </item>
+                        <item>5. With K, a, as <hi>Kadmiel.</hi>
+                        </item>
+                        <item>6. With k, a, h, as <hi>Azekah.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>
+                     <hi>Ke.</hi> Rule 4.</label>
+                  <item>Ke <hi>is ſpell'd</hi> 3 <hi>ways,</hi> Viz.
+<list>
+                        <item>1. With C, h, e, as <hi>Chedorlaomer.</hi>
+                        </item>
+                        <item>2. With K, e, as <hi>Kerchief.</hi>
+                        </item>
+                        <item>3. With K, ee, as <hi>Keeping.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>
+                     <hi>Ki.</hi> Rule 5.</label>
+                  <item>Ki <hi>is ſpell'd</hi> 3 <hi>ways,</hi> Viz.
+<list>
+                        <item>1. With C, h, i, as <hi>Chirurgeon.</hi>
+                        </item>
+                        <item>2. With c, h, y, as <hi>Alchymy.</hi>
+                        </item>
+                        <item>3. With K, i, as <hi>Kindle.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>
+                     <hi>Co.</hi> Rule 6.</label>
+                  <item>Co <hi>is ſpell'd</hi> 4 <hi>ways,</hi> Viz.
+<list>
+                        <item>1. With C, o, as <hi>Coherence.</hi>
+                        </item>
+                        <item>2. With Co, a, as <hi>Coal.</hi>
+                        </item>
+                        <item>3. With C, oo, as <hi>Cook.</hi>
+                        </item>
+                        <item>4. With K, o, as <hi>Korah.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>
+                     <hi>Fa.</hi> Rule 7.</label>
+                  <item>Fa <hi>is ſpell'd</hi> 4 <hi>ways,</hi> Viz.
+<list>
+                        <item>1. With F, as <hi>Facility.</hi>
+                        </item>
+                        <item>2. With f, a, i, as <hi>Fail.</hi>
+                        </item>
+                        <item>3. With f, e, i, as <hi>unfeigned</hi>
+                        </item>
+                        <item>4. With P, h, a, as <hi>Phares.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>
+                     <hi>Fe.</hi> Rule 8.</label>
+                  <item>Fe <hi>is ſpelled</hi> 4 <hi>ways,</hi> Viz.
+<list>
+                        <item>1. With f, e, as <hi>Felicity.</hi>
+                        </item>
+                        <item>2. With f, ee, as <hi>Feeding.</hi>
+                        </item>
+                        <item>3. With f, i, e, as <hi>Field.</hi>
+                        </item>
+                        <item>4. With P, h, e, as <hi>Pherecides</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>
+                     <hi>Fi.</hi> Rule 9.</label>
+                  <item>Fi <hi>is ſpelled</hi> 3 <hi>ways,</hi> Viz.
+<list>
+                        <item>1. With F, i, as <hi>Fidelity.</hi>
+                        </item>
+                        <item>2. With p, h, i, as <hi>Philoſophy.</hi>
+                        </item>
+                        <item>3. With p, h, y, as <hi>Phyſitian.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <p>Why is fa, fe, fi, fo, fu, ſpelled ſometime with f, &amp; ſometime with ph.</p>
+               <p>Becauſe neither the <hi>Greek</hi> nor the <hi>Hebrew</hi> Alphabet hath f; ſo <hi>Latine, Engliſh,</hi> and <hi>French</hi> Words, are ſpelled with f, but
+<pb facs="tcp:37296:2"/>Words comming from <hi>Hebrew</hi> or <hi>Greek</hi> with ph, <hi>as</hi> Fine, Pha<g ref="char:EOLhyphen"/>res, Pherecide, Phillip, Pho<g ref="char:EOLhyphen"/>cus, and Phut gave fair Phillis a fillup o'th Cheek.</p>
+               <list>
+                  <label>
+                     <hi>Fra.</hi> Rule 10.</label>
+                  <item>Fra <hi>is ſpelled</hi> 4 <hi>ways,</hi> Viz.
+<list>
+                        <item>1. With f. r, a, as <hi>Fraction.</hi>
+                        </item>
+                        <item>2. With f, r, a, i, as <hi>Frailty.</hi>
+                        </item>
+                        <item>3. With f, r, a, y, as to frail from the Fray.</item>
+                        <item>4. With p, h, r, a, as <hi>Phraſes.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>
+                     <hi>Fre.</hi> Rule 11.</label>
+                  <item>Free <hi>is ſpelled</hi> 4 <hi>ways,</hi> Viz.
+<list>
+                        <item>1. With f, r, e, as <hi>Freſh.</hi>
+                        </item>
+                        <item>2. With f, r, ee, as <hi>Freedom.</hi>
+                        </item>
+                        <item>3. With f, r, i, e, as <hi>Friend.</hi>
+                        </item>
+                        <item>4. With p, h, r, e, as <hi>Phrenſie.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>
+                     <hi>Fro.</hi> Rule 12.</label>
+                  <item>Fro <hi>is ſpelled</hi> 2 <hi>ways,</hi> Viz.
+<list>
+                        <item>1. With f, r, o, as <hi>Frolique.</hi>
+                        </item>
+                        <item>2. With p, h, r, o, as <hi>Hermophro<g ref="char:EOLhyphen"/>dite.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>
+                     <hi>Re.</hi> Rule 13.</label>
+                  <item>Re <hi>is ſpelled</hi> 4 <hi>ways,</hi> Viz.
+<list>
+                        <item>1. With r, e, as <hi>Reſtitution.</hi>
+                        </item>
+                        <item>2. With r, e, a, as <hi>Read.</hi>
+                        </item>
+                        <item>3. With r, ee, as <hi>Reed</hi> or <hi>Cane.</hi>
+                        </item>
+                        <item>4. With r, h, e, as <hi>Rhetorick.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>
+                     <hi>Ro.</hi> Rule 14.</label>
+                  <item>Ro <hi>is ſpelled</hi> 3 <hi>ways,</hi> Viz.
+<list>
+                        <item>1. With r, o, as <hi>Romance.</hi>
+                        </item>
+                        <item>2. With r, oo, as <hi>Room</hi> in <hi>Rome.</hi>
+                        </item>
+                        <item>3. With r, h, o, as <hi>Rhodope.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>
+                     <hi>Se.</hi> Rule 15.</label>
+                  <item>Se <hi>is ſpelled</hi> 8 <hi>ways,</hi> Viz.
+<list>
+                        <item>1. With c, e, as <hi>Celeſtial.</hi>
+                        </item>
+                        <item>2. With c, e, i, as <hi>Conceive.</hi>
+                        </item>
+                        <item>3. With c, i, e, as <hi>Cieling.</hi>
+                        </item>
+                        <item>4. With ſ, c, e, as <hi>Scepter.</hi>
+                        </item>
+                        <item>5. With ſ, c, h, e, as <hi>Schedule.</hi>
+                        </item>
+                        <item>6. With ſ, e, as <hi>Severity.</hi>
+                        </item>
+                        <item>7. With ſ, ee, as <hi>Seemingly.</hi>
+                        </item>
+                        <item>8. With z, e, as <hi>Hezekiah.</hi>
+                        </item>
+                        <item>9. With ſ, i, e, as <hi>Siege.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>
+                     <hi>Si.</hi> Rule 16.</label>
+                  <item>Si <hi>is ſpelled</hi> 11 <hi>ways,</hi> Viz.
+<list>
+                        <item>1. With c, i, as <hi>Circumſpection.</hi>
+                        </item>
+                        <item>2. With c, y, as <hi>Cylinder.</hi>
+                        </item>
+                        <item>3. With ſ, c, h, i, as <hi>Schiſmatical.</hi>
+                        </item>
+                        <item>4. With ſ, c, i, as <hi>Science.</hi>
+                        </item>
+                        <item>5. With ſ, i, as <hi>Simeonites.</hi>
+                        </item>
+                        <item>6. With ſ, i, e, as <hi>Synteriſie.</hi>
+                        </item>
+                        <item>7. With ſ, c, y, as <hi>Scythian.</hi>
+                        </item>
+                        <item>8. With ſ, y, as <hi>Sycophant.</hi>
+                        </item>
+                        <item>9. With t, i, as <hi>Repetition.</hi>
+                        </item>
+                        <item>10. With z, i, as <hi>Amzi.</hi>
+                        </item>
+                        <item>11. With z, y, as <hi>Zymbraus.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Here followeth Examples for the aforeſaid Syllables.</head>
+               <list>
+                  <label>Ac.</label>
+                  <item>Acca, accad, Iſaac, accent, ac<g ref="char:EOLhyphen"/>ept, acceſs, inacceſſible, acquire, equiſition, pinnacle, Acſhaph, Pa<g ref="char:EOLhyphen"/>ſach, Taanach, Achbor, Berodach, Stomach, Shop-hack, Habbakkuk, Iſhbak, Jehozadak, Akkub, Bak<g ref="char:EOLhyphen"/>buk.</item>
+                  <pb facs="tcp:37296:3"/>
+                  <label>Ec.</label>
+                  <item>Effect, ſelect, confectioner, de<g ref="char:EOLhyphen"/>fect, neglect, deject, project, pro<g ref="char:EOLhyphen"/>tect, perfect.</item>
+                  <label>Ca.</label>
+                  <item>Cag, Cage, cacophony, calm, caſt, calamity, Cadeſh, Micah, Ec<g ref="char:EOLhyphen"/>cleſiaſtical, pervicacy, Caitiffe, Mordecai, Zaccai, day, decay, cha<g ref="char:EOLhyphen"/>os, character, Rechab, Iſſachar, Hachalia, Sheehamiah, Olika, kad<g ref="char:EOLhyphen"/>miel, Ahikam, Kallai, Azrikam, Bakbukkar, Miphkad, Kekaniah, Elkana, Azekah.</item>
+                  <label>Ke.</label>
+                  <item>Zacchens, Chedorlaomer, Senna<g ref="char:EOLhyphen"/>cherib, Chephirah, Kedemoth.</item>
+                  <label>Ki.</label>
+                  <item>Kib, kibe, kick, kidron, kinderkin, kindle, kiſh, kittim, kiſhi, hezekiah, Chyrurgeon, Zidkijah, Catechiſm, archite<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> chirography, Jachin, Ja<g ref="char:EOLhyphen"/>chiſh, hachila, alchymy, alchymiſts, chymera.</item>
+                  <label>Co.</label>
+                  <item>Sycophant, tekoites, ſycomore, cook, cool, cooper, couzen not your couſin, melancholy.</item>
+                  <label>Fa.</label>
+                  <item>Fact, face, faction, faſhion, fami<g ref="char:EOLhyphen"/>liarity, fair, faith, phares, phantaſy, fantaſtical, not faulty, not guilty.</item>
+                  <label>Fe.</label>
+                  <item>Fellowſhip, feſtivity, feeble, fee, feed, feel, counterfeit, propheti<g ref="char:EOLhyphen"/>cally, topheth.</item>
+                  <label>Fi.</label>
+                  <item>Fidelity, fiction, figure, filial, firm, firmament, finiſh.</item>
+                  <label>Fra.</label>
+                  <item>Fraction, frangible, fraught, fra<g ref="char:EOLhyphen"/>ternity, frail, fraie or ſcare-away, fray or ſcuffle, or skirmiſh.</item>
+                  <label>Fro.</label>
+                  <item>Frock, frolick, frontlet, frontier, hermophrodite, epaphroditus.</item>
+                  <label>Re.</label>
+                  <item>Recreate, remain, reſpect, recoil, reiterate, reſtitution, reverence, rhegium, rheniſh, rhetorique, rhe<g ref="char:EOLhyphen"/>torician, rhetorically, rheumatick.</item>
+                  <label>Ro.</label>
+                  <item>Rocheſter, rogation, romance, corroboration, corroborate, incor<g ref="char:EOLhyphen"/>rigible, root, roof, Rhodes, <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, Rhodians, Rhodog<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e, Rhodope, Rhone, Rhoxane.</item>
+                  <label>Ce.</label>
+                  <item>Celeſtial, celebrate, ceremony, certain, concerning, deceive, per<g ref="char:EOLhyphen"/>ceive, receive, deceitful, ſealing, ſeal'd, ſeal, sceleton, ſcene, ſcepter, ſceptick, ſchedule, ſecond, ſecreſie ſevere, ſecurely, ſecure, ſecurity ſeriouſly, ſeed, ſucceedeth, Heze<g ref="char:EOLunhyphen"/>kiah; Zerubbabel, Baalzebub, Ze<g ref="char:EOLunhyphen"/>dary, Zone.</item>
+                  <label>Si.</label>
+                  <item>Silence, conſider, ſiniſter, ſimili<g ref="char:EOLunhyphen"/>tude, ſighing, eaſie, poeſie, ſyntere<g ref="char:EOLunhyphen"/>ſie, reconcile, incite, ſciſmatical ſchiſm, ſcience, conſcientiouſneſs laſciviouſneſs, ſcilicet, cyb, cym<g ref="char:EOLunhyphen"/>bal, cymical, cypreſs, action, ſecti<g ref="char:EOLhyphen"/>on, ſcythian, ſycophant, ſyllable.</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37296:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
